@@ -4,4 +4,5 @@ sebenernya masalah utama dari membuat game itu kita harus bersabar, kalo ga jadi
 
 
 
-untuk gameplay ada di [ https://drive.google.com/drive/folders/19UYFG0oxNKo8taBNsHJsGw4pz_CFHh46?usp=sharing ]
+untuk gameplay ada di
+[ https://drive.google.com/drive/folders/19UYFG0oxNKo8taBNsHJsGw4pz_CFHh46?usp=sharing ]
