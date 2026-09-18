@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://du1hef7df7qmq"]
+
+[ext_resource type="PackedScene" uid="uid://bcyip4ow0l61y" path="res://scenes/player.tscn" id="1_o5qli"]
+[ext_resource type="Script" uid="uid://dmjccfdbqe0kr" path="res://scripts/main.gd" id="3_main"]
+[ext_resource type="PackedScene" path="res://scenes/HUD.tscn" id="4_hud"]
+
+[node name="Main" type="Node2D" unique_id=1242402734]
+script = ExtResource("3_main")
+
+[node name="LevelContainer" type="Node2D" parent="." unique_id=1999430994 groups=["level_container"]]
+
+[node name="Player" parent="." unique_id=2010520232 instance=ExtResource("1_o5qli")]
+position = Vector2(120, 624)
+scale = Vector2(3, 3)
+
+[node name="HUD" parent="." unique_id=1509396249 instance=ExtResource("4_hud")]

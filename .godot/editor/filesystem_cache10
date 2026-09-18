@@ -1,0 +1,87 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789742401
+AGENTS.md::TextFile::-1::1789741033::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::973626099574220328::1788958542::1788958542::1::::<><><>0<>0<>6a964c79955ac9e685607f5021b99ff3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://addons/::1789735039
+::res://addons/ziva_agent/::1789735068
+icon.svg::CompressedTexture2D::4175183316038366027::1789735065::1789735065::1::::<><><>0<>0<>f0107f89e268d1c4b4d04e370559d251<>res://.godot/imported/icon.svg-092e97b879f73eb599fff18ea13f23cb.ctex::
+LICENSE.md::TextFile::-1::1789735065::0::1::::<><><>0<>0<><>::
+manifest.json::JSON::-1::1789735065::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1789735065::0::1::::<><><>0<>0<><>::
+ziva_agent.gdextension::GDExtension::4529844308398739034::1789735065::0::1::::<><><>0<>0<><>::
+ziva_input_harness.gd::GDScript::2579889989056137093::1789735065::0::1::::<>Node<><>0<>0<><>::
+::res://addons/ziva_agent/bin/::1789735065
+::res://addons/ziva_agent/bin/linux_arm64/::1789735068
+::res://addons/ziva_agent/bin/linux_arm64/locales/::1789735068
+::res://addons/ziva_agent/bin/linux_x86_64/::1789735068
+::res://addons/ziva_agent/bin/linux_x86_64/locales/::1789735068
+::res://addons/ziva_agent/bin/macos/::1789735068
+::res://addons/ziva_agent/bin/windows_arm64/::1789735068
+::res://addons/ziva_agent/bin/windows_x86_64/::1789742397
+::res://addons/ziva_agent/bin-deps/::1789735065
+::res://addons/ziva_agent/bin-deps/linux_arm64/::1789735068
+::res://addons/ziva_agent/bin-deps/linux_arm64/git/::1789735046
+::res://addons/ziva_agent/bin-deps/linux_arm64/git/bin/::1789735068
+::res://addons/ziva_agent/bin-deps/linux_x86_64/::1789735068
+::res://addons/ziva_agent/bin-deps/linux_x86_64/git/::1789735046
+::res://addons/ziva_agent/bin-deps/linux_x86_64/git/bin/::1789735068
+::res://addons/ziva_agent/bin-deps/macos/::1789735068
+::res://addons/ziva_agent/bin-deps/macos/git/::1789735068
+::res://addons/ziva_agent/bin-deps/windows_arm64/::1789735068
+::res://addons/ziva_agent/bin-deps/windows_arm64/git/::1789735068
+::res://addons/ziva_agent/zivacode/::1789735065
+::res://addons/ziva_agent/zivacode/linux_arm64/::1789735068
+::res://addons/ziva_agent/zivacode/linux_x86_64/::1789735068
+::res://addons/ziva_agent/zivacode/macos/::1789735068
+::res://addons/ziva_agent/zivacode/windows_arm64/::1789735068
+::res://addons/ziva_agent/zivacode/windows_x86_64/::1789735068
+::res://assets/::1789738074
+::res://assets/images/::1789738074
+::res://assets/images/background/::1788959253
+Blue.png::CompressedTexture2D::1542494441577963270::1788958544::1788958544::1::::<><><>0<>0<>8fd37a12149299af47c639e412e90ebc<>res://.godot/imported/Blue.png-5b1baa1bc14f33c9799044758625a03a.ctex::
+::res://assets/images/Collectibles/::1788959254
+Apple.png::CompressedTexture2D::7426972743326841785::1788958544::1788958544::1::::<><><>0<>0<>5e05d7e915f73503deb5475f5f904548<>res://.godot/imported/Apple.png-34cb39577f9d237345a97efffc395dc8.ctex::
+::res://assets/images/flag/::1789738915
+exit_flag.png::CompressedTexture2D::3890251446556408759::1789735728::1789738134::1::::<><><>0<>0<>70bbc2bc50453d7f5a7db56bdd362f52<>res://.godot/imported/exit_flag.png-0f96133dc597840aa8dc8566b47e72e3.ctex::
+exit_flag_wave.png::CompressedTexture2D::6538650021848184192::1789735830::1789738134::1::::<><><>0<>0<>2715480ca82fbef93e43e068644ff398<>res://.godot/imported/exit_flag_wave.png-0f4ba6cc0336c8d0d9d2577022ab864b.ctex::
+moving_platform.png::CompressedTexture2D::2349991270358633957::1789735729::1789738134::1::::<><><>0<>0<>fe44ef91ebf95c8af75cde22f8140f11<>res://.godot/imported/moving_platform.png-a781ec188ca81dbb17496c4d791de264.ctex::
+::res://assets/images/player/::1788959254
+Hit (32x32).png::CompressedTexture2D::5882171444084354447::1788958544::1788958544::1::::<><><>0<>0<>fab855ffcf4ff387275296f23ef5c76c<>res://.godot/imported/Hit (32x32).png-87d7836b8c3f40eee42425bb00ab9a06.ctex::
+Idle (32x32).png::CompressedTexture2D::8946543769143132658::1788958544::1788958544::1::::<><><>0<>0<>71877fa8eb1e368a5ad1197b65f4418e<>res://.godot/imported/Idle (32x32).png-80b5829e967944c7bbf5958bc74c9b27.ctex::
+Jump (32x32).png::CompressedTexture2D::2793043835191221882::1788958544::1788958544::1::::<><><>0<>0<>c7dec70be27855dc06d9f582d28e8f63<>res://.godot/imported/Jump (32x32).png-fc3f0e4aba12c68de7acb914dfbd3eda.ctex::
+Run (32x32).png::CompressedTexture2D::7010503337984838833::1788958544::1788958544::1::::<><><>0<>0<>54c0cc2a202100ae7d076f197f9dd6bd<>res://.godot/imported/Run (32x32).png-5c6047784ed0240cec5ef5a0fef7b485.ctex::
+::res://assets/images/Snail/::1788959254
+Walk (38x24).png::CompressedTexture2D::5247110277443276585::1788958544::1788958544::1::::<><><>0<>0<>24aee55e5010ec804d48c7853e6e3667<>res://.godot/imported/Walk (38x24).png-cc2214ae5ff83eba80e58ef6c7120c0e.ctex::
+::res://assets/images/Tilemap/::1788959254
+Terrain (16x16).png::CompressedTexture2D::477368111019060379::1788958544::1788958544::1::::<><><>0<>0<>3b8f48b4a741747533e27dff916fec10<>res://.godot/imported/Terrain (16x16).png-1db6c4f451bad98efb8c231dcaf2c1e4.ctex::
+::res://assets/sounds/::1788959254
+collect_apple.wav::AudioStreamWAV::7641709772035460306::1788958544::1788958544::1::::<><><>0<>0<>9726318bf56f2e5192653214c84fe7d6<>res://.godot/imported/collect_apple.wav-a192fbe7570c07e26a2dd96b167269b7.sample::
+death.wav::AudioStreamWAV::1484003110203671666::1788958544::1788958544::1::::<><><>0<>0<>66bdfce29fd582e4376781ab06d0c58d<>res://.godot/imported/death.wav-75b3b960b42f4ac0e66fdefe9fd48ee1.sample::
+jump.wav::AudioStreamWAV::3771845532072120109::1788958544::1788958544::1::::<><><>0<>0<>ea576f74bb94e604af4c19be6e39da48<>res://.godot/imported/jump.wav-395b727cde98999423d5c020c9c3492f.sample::
+music.ogg::AudioStreamOggVorbis::6585043033739572079::1788958544::1788958544::1::::<><><>0<>0<>102891d0e2df6bbdef82fc660eaa8508<>res://.godot/imported/music.ogg-a816242481c3cc8e174cac58f63e5379.oggvorbisstr::
+::res://scenes/::1789738177
+exit.tscn::PackedScene::3477517041343062408::1789738177::0::1::::<><><>0<>0<><>::uid://iqc6dvrbers4::::res://scripts/exit.gd<>res://assets/images/flag/exit_flag_wave.png
+HUD.tscn::PackedScene::-1::1789736197::0::1::::<><><>0<>0<><>::res://scripts/hud.gd
+main.tscn::PackedScene::8617145219765246488::1789736177::0::1::::<><><>0<>0<><>::uid://bcyip4ow0l61y::::res://scenes/player.tscn<>uid://dmjccfdbqe0kr::::res://scripts/main.gd<>res://scenes/HUD.tscn
+moving_platform.tscn::PackedScene::-1::1789738111::0::1::::<><><>0<>0<><>::res://assets/images/flag/moving_platform.png<>res://scripts/moving_platform.gd
+player.tscn::PackedScene::2576857505755178416::1788958544::0::1::::<><><>0<>0<><>::uid://cp2mre7skdjsp::::res://assets/images/player/Hit (32x32).png<>uid://c5qd8m8evqpkg::::res://scripts/player.gd<>uid://d0p1jex142lio::::res://assets/images/player/Idle (32x32).png<>uid://bf18a2viex20e::::res://assets/images/player/Jump (32x32).png<>uid://c64673na1eqk4::::res://assets/images/player/Run (32x32).png<>uid://bt0d0lbgdscg0::::res://assets/sounds/jump.wav
+::res://scenes/collectibles/::1789736198
+Apple.tscn::PackedScene::3262055771797238270::1789736198::0::1::::<><><>0<>0<><>::uid://dd2xfkk71lpw0::::res://assets/images/Collectibles/Apple.png<>uid://b2mk76edkygar::::res://scripts/apple.gd
+::res://scenes/enemies/::1789736197
+Snail.tscn::PackedScene::5008653904517057377::1789736197::0::1::::<><><>0<>0<><>::uid://cg00e0pc140nd::::res://assets/images/Snail/Walk (38x24).png<>uid://b04kmhd1ypqso::::res://scripts/snail.gd
+::res://scenes/levels/::1789741707
+level1.tscn::PackedScene::2447537541405279304::1789739647::0::1::::<><><>0<>0<><>::uid://v8gwm0vny3be::::res://assets/images/background/Blue.png<>uid://g2ighumpwou2::::res://assets/images/Tilemap/Terrain (16x16).png<>uid://bmqft10ym2etq::::res://scenes/collectibles/Apple.tscn<>uid://bpssgyopc8gse::::res://scenes/exit.tscn
+level2.tscn::PackedScene::1531951869056422814::1789741604::0::1::::<><><>0<>0<><>::uid://v8gwm0vny3be::::res://assets/images/background/Blue.png<>uid://bmqft10ym2etq::::res://scenes/collectibles/Apple.tscn<>uid://g2ighumpwou2::::res://assets/images/Tilemap/Terrain (16x16).png<>uid://cdmh2er6oypg0::::res://scenes/enemies/Snail.tscn<>uid://bpssgyopc8gse::::res://scenes/exit.tscn<>res://scenes/moving_platform.tscn
+level3.tscn::PackedScene::3069332983438773104::1789741707::0::1::::<><><>0<>0<><>::uid://v8gwm0vny3be::::res://assets/images/background/Blue.png<>uid://bmqft10ym2etq::::res://scenes/collectibles/Apple.tscn<>uid://g2ighumpwou2::::res://assets/images/Tilemap/Terrain (16x16).png<>uid://cdmh2er6oypg0::::res://scenes/enemies/Snail.tscn<>uid://bpssgyopc8gse::::res://scenes/exit.tscn<>res://scenes/moving_platform.tscn
+::res://scripts/::1789739651
+apple.gd::GDScript::4306957944855006057::1789736003::0::1::::<>Area2D<><>0<>0<><>::
+bgm.gd::GDScript::2930008789219141741::1789736723::0::1::::<>AudioStreamPlayer<><>0<>0<><>::
+exit.gd::GDScript::594717777550659413::1789735962::0::1::::LevelExit<>Area2D<><>0<>0<><>::
+game_manager.gd::GDScript::4761713953924641566::1789739651::0::1::::<>Node<><>0<>0<><>::
+hud.gd::GDScript::1318623769416064553::1789739651::0::1::::HUD<>CanvasLayer<><>0<>0<><>::
+main.gd::GDScript::8020232847413739721::1789736002::0::1::::<>Node2D<><>0<>0<><>::
+moving_platform.gd::GDScript::3624780976563124520::1789735973::0::1::::MovingPlatform<>AnimatableBody2D<><>0<>0<><>::
+player.gd::GDScript::6911778484238489766::1789736033::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+snail.gd::GDScript::4201637702478033578::1789736004::0::1::::<>Area2D<><>0<>0<><>::
+::res://tests/::1789739909
+test_level_progression.gd::GDScript::9102234558495207248::1789739909::0::1::::<>Node<><>0<>0<><>::
