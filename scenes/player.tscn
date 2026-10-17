@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://cp2mre7skdjsp" path="res://assets/images/player/Hit (32x32).png" id="1_dqkch"]
 [ext_resource type="Script" uid="uid://c5qd8m8evqpkg" path="res://scripts/player.gd" id="1_qlg0r"]
+[ext_resource type="Script" path="res://scripts/kamera.gd" id="5_kamera"]
 [ext_resource type="Texture2D" uid="uid://d0p1jex142lio" path="res://assets/images/player/Idle (32x32).png" id="2_qlg0r"]
 [ext_resource type="Texture2D" uid="uid://bf18a2viex20e" path="res://assets/images/player/Jump (32x32).png" id="3_tuyoq"]
 [ext_resource type="Texture2D" uid="uid://c64673na1eqk4" path="res://assets/images/player/Run (32x32).png" id="4_fjrip"]
@@ -261,3 +262,13 @@ shape = SubResource("RectangleShape2D_jw0cd")
 
 [node name="JumpSound" type="AudioStreamPlayer2D" parent="." unique_id=1746697231]
 stream = ExtResource("6_tuyoq")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=511246801]
+enabled = true
+offset = Vector2(40, 0)
+zoom = Vector2(2, 2)
+position_smoothing_enabled = true
+position_smoothing_speed = 5.0
+drag_horizontal_enabled = true
+drag_vertical_enabled = true
+script = ExtResource("5_kamera")
